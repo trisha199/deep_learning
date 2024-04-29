@@ -6,7 +6,7 @@ def generate_random_numbers(n, start=1, end=100):
 
 # Generate 10 random numbers between 1 and 100
 random_numbers = generate_random_numbers(10)
-print(random_numbers)
+print(random_numbers) # [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 # Daily change made at 2024-04-25 22:21:50
 # Daily change made at 2024-04-25 22:22:16
 # Change made at 2024-04-25 22:30:39
